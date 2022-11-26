@@ -1,0 +1,15 @@
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/Debug/net7.0/AlgoritmsAndDataStructures.csproj.AssemblyReference.cache
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/Debug/net7.0/AlgoritmsAndDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/Debug/net7.0/AlgoritmsAndDataStructures.AssemblyInfoInputs.cache
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/Debug/net7.0/AlgoritmsAndDataStructures.AssemblyInfo.cs
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/Debug/net7.0/AlgoritmsAndDataStructures.csproj.CoreCompileInputs.cache
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/bin/Debug/net7.0/AlgoritmsAndDataStructures
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/bin/Debug/net7.0/AlgoritmsAndDataStructures.deps.json
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/bin/Debug/net7.0/AlgoritmsAndDataStructures.runtimeconfig.json
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/bin/Debug/net7.0/AlgoritmsAndDataStructures.dll
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/bin/Debug/net7.0/AlgoritmsAndDataStructures.pdb
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/Debug/net7.0/AlgoritmsAndDataStructures.dll
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/Debug/net7.0/refint/AlgoritmsAndDataStructures.dll
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/Debug/net7.0/AlgoritmsAndDataStructures.pdb
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/Debug/net7.0/AlgoritmsAndDataStructures.genruntimeconfig.cache
+/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/Debug/net7.0/ref/AlgoritmsAndDataStructures.dll
