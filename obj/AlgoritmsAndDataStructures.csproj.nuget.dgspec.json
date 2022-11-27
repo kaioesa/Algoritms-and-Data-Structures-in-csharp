@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/AlgoritmsAndDataStructures.csproj": {}
+    "/home/kaio/Projects/csharp/Algoritms-and-Data-Structures-in-csharp/AlgoritmsAndDataStructures.csproj": {}
   },
   "projects": {
-    "/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/AlgoritmsAndDataStructures.csproj": {
+    "/home/kaio/Projects/csharp/Algoritms-and-Data-Structures-in-csharp/AlgoritmsAndDataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/AlgoritmsAndDataStructures.csproj",
+        "projectUniqueName": "/home/kaio/Projects/csharp/Algoritms-and-Data-Structures-in-csharp/AlgoritmsAndDataStructures.csproj",
         "projectName": "AlgoritmsAndDataStructures",
-        "projectPath": "/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/AlgoritmsAndDataStructures.csproj",
+        "projectPath": "/home/kaio/Projects/csharp/Algoritms-and-Data-Structures-in-csharp/AlgoritmsAndDataStructures.csproj",
         "packagesPath": "/home/kaio/.nuget/packages/",
-        "outputPath": "/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/obj/",
+        "outputPath": "/home/kaio/Projects/csharp/Algoritms-and-Data-Structures-in-csharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kaio/.nuget/NuGet/NuGet.Config"

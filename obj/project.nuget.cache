@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s8DjGzjeFhgRc7PFuJ8B0oUOK/cLr9YF2ZBqLyc+9bMZ/ND7FOLJ61p+yVyTzJ2QEzy6tDBZug29RMATVKGDOw==",
+  "dgSpecHash": "rbsYfRI4VqsRimzJJp4X2fKJ47PY4o2I+jWZJFoJ4f39paxklV4KufZ/Rx787cb01nkiYes99E5Qz5N3of1R+g==",
   "success": true,
-  "projectFilePath": "/home/kaio/Projects/csharp/AlgoritmsAndDataStructures/AlgoritmsAndDataStructures.csproj",
+  "projectFilePath": "/home/kaio/Projects/csharp/Algoritms-and-Data-Structures-in-csharp/AlgoritmsAndDataStructures.csproj",
   "expectedPackageFiles": [
     "/home/kaio/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
   ],
